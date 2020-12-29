@@ -1,4 +1,6 @@
-package com.gildedrose
+package com.gildedrose.doubles
+
+import com.gildedrose.Item
 
 class ItemBuilder {
 
